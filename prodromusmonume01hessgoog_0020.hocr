@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromusmonume01hessgoog_0020.png"; bbox 0 0 3736 5160; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1623 970 1864 1131">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1623 970 1864 1131">
+     <span class='ocr_line' id='line_1_1' title="bbox 1623 970 1864 993; baseline -0.004 1"><span class='ocrx_word' id='word_1_1' title='bbox 1623 970 1626 975; x_wconf 68' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 1854 980 1864 993; x_wconf 63' lang='lat' dir='ltr'><em>a</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1695 1124 1700 1131; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1695 1124 1700 1131; x_wconf 69' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 184 1052 1590 1265">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 184 978 1590 1265">
+     <span class='ocr_line' id='line_1_3' title="bbox 184 1052 1590 1265; baseline -0.006 -3"><span class='ocrx_word' id='word_1_4' title='bbox 184 1058 204 1069; x_wconf 78' lang='grc'><em>”</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 265 1052 1024 1265; x_wconf 62' lang='lat' dir='ltr'><strong>ffl‘sssffizmo</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1095 1080 1590 1259; x_wconf 59' lang='lat' dir='ltr'>PRAEWA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 119 1624 1741 1843">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 119 1624 1741 1843">
+     <span class='ocr_line' id='line_1_4' title="bbox 119 1624 1741 1843; baseline -0.004 -22"><span class='ocrx_word' id='word_1_7' title='bbox 119 1624 378 1821; x_wconf 73' lang='lat' dir='ltr'><strong>PRmA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 413 1696 983 1840; x_wconf 71' lang='lat' dir='ltr'>FVNDAnoNE,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1028 1640 1741 1843; x_wconf 70' lang='lat' dir='ltr'>REsTAvssAnoNE,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 327 2206 1535 2605">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 327 2206 1535 2605">
+     <span class='ocr_line' id='line_1_5' title="bbox 353 2206 1400 2347; baseline -0.008 -16"><span class='ocrx_word' id='word_1_10' title='bbox 353 2298 356 2303; x_wconf 92' lang='lat'>-</span> <span class='ocrx_word' id='word_1_11' title='bbox 490 2206 1339 2347; x_wconf 81' lang='lat' dir='ltr'>·TRANSLAT10NIBVS</span> <span class='ocrx_word' id='word_1_12' title='bbox 1394 2312 1400 2323; x_wconf 86' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 327 2486 1535 2605; baseline -0.007 0"><span class='ocrx_word' id='word_1_13' title='bbox 327 2488 818 2605; x_wconf 62' lang='lat' dir='ltr'><strong>MONASTERH</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 851 2486 1535 2599; x_wconf 65' lang='lat' dir='ltr'>WEINGARTENSIS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1872 5160">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1872 5160">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1872 5160; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1872 5160; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
